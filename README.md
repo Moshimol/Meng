@@ -50,6 +50,10 @@
 ---
 >1.下个版本增加不同网络状态下的判断，来记性加载，使得在没有网出现没有数据的问题得到解决
 
+###由于本人的原因 现提供360云盘下载
+---
+
+[下载地址](https://yunpan.cn/ckWD2QNcHytSP)
 
 ###作者的联系方式
 <h4>[卢仕彤微博](http://weibo.com/1865131860/profile?rightmod=1&wvr=6&mod=personinfo)  <br>[袁王东  微博](http://weibo.com/u/3816905770?refer_flag=1005050005_)
