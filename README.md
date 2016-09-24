@@ -3,9 +3,13 @@
 <h4>由于现在对萌物的追捧，我们打算收集所有好看的萌货，以及列出相关的后买地址</h4>
 ---
 
-##软件的亮点gif图片
+##软件的亮点PNG图片
 --- 
-
+![Home ViewController](https://github.com/Moshimol/Meng/blob/master/Effect/Home.png)
+![More ViewController](https://github.com/Moshimol/Meng/blob/master/Effect/More.png)<br><br>
+![Profile ViewController](https://github.com/Moshimol/Meng/blob/master/Effect/Profile.png)
+![AllPic](https://github.com/Moshimol/Meng/blob/master/Effect/AllPic.png)<br><br>
+![SharSdk](https://github.com/Moshimol/Meng/blob/master/Effect/SharSDK.png)
 
 * 可以把萌货的相关链接分享到微信(朋友圈，微信好友 这个需要安装微信。也可以分享到微博上，分享到微博需要微博登陆，不必使用微博客户端
 * 萌货的页面都是实时更新的数据，可以看到最新的数据
