@@ -1,0 +1,68 @@
+{
+	"code": 200,
+	"data": {
+		"banner_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160808/bt6ga7nxe.jpg-w300",
+		"cover_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160808/wf652g15x.jpg-w720",
+		"created_at": 1470626591,
+		"id": 117,
+		"paging": {
+			"next_url": "http://api.maimenghuo.com/v2/collections/117/posts?limit=20&offset=20"
+		},
+		"posts": [{
+			"content_url": "http://www.maimenghuo.com/posts/26751/content",
+			"cover_image_url": "shttp://7xkwn3.com1.z0.glb.clouddn.com/image/160803/eij0wzje1.jpg-w720",
+			"created_at": 1470522606,
+			"id": 26751,
+			"label_ids": [],
+			"liked": false,
+			"likes_count": 378,
+			"published_at": 1470626617,
+			"share_msg": "",
+			"short_title": "None",
+			"status": 0,
+			"title": "\u6469\u5361\u661f\u5ea7\u4e4b\u627e\u4ec0\u4e48\u661f\u5ea7\u7684\u5973\u7968\u6bd4\u8f83\u597d",
+			"title_status": 0,
+			"updated_at": 1470210281,
+			"url": "http://www.maimenghuo.com/posts/26751"
+		}, {
+			"content_url": "http://www.maimenghuo.com/posts/25941/content",
+			"cover_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160726/o98jfvex9.jpg-w720",
+			"created_at": 1469917806,
+			"id": 25941,
+			"label_ids": [],
+			"liked": false,
+			"likes_count": 566,
+			"published_at": 1470626608,
+			"share_msg": "",
+			"short_title": "None",
+			"status": 0,
+			"title": "\u6469\u5361\u661f\u5ea7\u4e4b\u4e0d\u61c2\u62d2\u7edd\u522b\u4eba\u662f\u79cd\u75c5",
+			"title_status": 0,
+			"updated_at": 1469520363,
+			"url": "http://www.maimenghuo.com/posts/25941"
+		}, {
+			"content_url": "http://www.maimenghuo.com/posts/25270/content",
+			"cover_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160719/9bm132n1u.jpg-w720",
+			"created_at": 1469313006,
+			"id": 25270,
+			"label_ids": [],
+			"liked": false,
+			"likes_count": 742,
+			"published_at": 1470626602,
+			"share_msg": "",
+			"short_title": "None",
+			"status": 0,
+			"title": " \u6469\u5361\u661f\u5ea7\u4e4b\u4e3a\u4ec0\u4e48\u6211\u4e0d\u60f3\u8c08\u604b\u7231\uff1f",
+			"title_status": 0,
+			"updated_at": 1468905585,
+			"url": "http://www.maimenghuo.com/posts/25270"
+		}],
+		"posts_count": 3,
+		"status": 1,
+		"subtitle": null,
+		"title": "\u6469\u5361\u661f\u5ea7",
+		"updated_at": 1470626591,
+		"url": "http://www.maimenghuo.com/collections/117"
+	},
+	"message": "OK"
+}

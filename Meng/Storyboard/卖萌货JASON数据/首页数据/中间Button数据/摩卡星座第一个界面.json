@@ -1,0 +1,20 @@
+{
+	"code": 200,
+	"data": {
+		"banner_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160808/bt6ga7nxe.jpg-w300",
+		"cover_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160808/wf652g15x.jpg-w720",
+		"created_at": 1470626591,
+		"id": 117,
+		"paging": {
+			"next_url": null
+		},
+		"posts": [],
+		"posts_count": 3,
+		"status": 1,
+		"subtitle": null,
+		"title": "\u6469\u5361\u661f\u5ea7",
+		"updated_at": 1470626591,
+		"url": "http://www.maimenghuo.com/collections/117"
+	},
+	"message": "OK"
+}

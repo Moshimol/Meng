@@ -1,0 +1,91 @@
+{
+    "code": 200,
+	"data": {
+		"banners": [{
+			"id": 205,
+			"image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160805/zplglab5b.jpg-w720",
+			"order": 217,
+			"status": 0,
+			"target": {
+				"banner_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160530/bcsk11p3s.jpg-w300",
+				"cover_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160530/k8a0lz2k2.jpg-w720",
+				"created_at": 1445513081,
+				"id": 22,
+				"posts_count": 70,
+				"status": 1,
+				"subtitle": "None",
+				"title": "\u840c\u5154\u9171FM",
+				"updated_at": 1445513081
+			},
+			"target_id": 22,
+			"target_url": "",
+			"type": "collection"
+		}, {
+			"id": 204,
+			"image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160805/3duc4txry.jpg-w720",
+			"order": 216,
+			"status": 0,
+			"target_id": 0,
+			"target_url": "http://mglife.me/anniversary?share=true",
+			"type": "url"
+		}, {
+			"id": 201,
+			"image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160804/ui7xbvh06.jpg-w720",
+			"order": 214,
+			"status": 0,
+			"target": {
+				"banner_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160804/gch829uel.jpg-w300",
+				"cover_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160804/ca4i5za09.jpg-w720",
+				"created_at": 1470297880,
+				"id": 116,
+				"posts_count": 7,
+				"status": 1,
+				"subtitle": "\u7275\u725b\u7ec7\u5973\u6e21\u6cb3\u6865",
+				"title": "\u4e03\u5915\u4eca\u5bb5\u770b\u78a7\u9704",
+				"updated_at": 1470297880
+			},
+			"target_id": 116,
+			"target_url": "",
+			"type": "collection"
+		}, {
+			"id": 200,
+			"image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160801/kkvjgeg16.jpg-w720",
+			"order": 213,
+			"status": 0,
+			"target": {
+				"banner_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160801/jdkok59he.jpg-w300",
+				"cover_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160801/uzsnzbw1b.jpg-w720",
+				"created_at": 1470032133,
+				"id": 115,
+				"posts_count": 8,
+				"status": 1,
+				"subtitle": "\u662f\u6709\u5173\u7f8e\u597d\u7684\u4e00\u5207",
+				"title": "\u7099\u70ed\u9633\u5149\u4e0b\u7684\u51b0\u7cd5 \u98ce\u6247 \u548c\u4f60",
+				"updated_at": 1470032133
+			},
+			"target_id": 115,
+			"target_url": "",
+			"type": "collection"
+		}, {
+			"id": 197,
+			"image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160728/2tauvi6d7.jpg-w720",
+			"order": 211,
+			"status": 0,
+			"target": {
+				"banner_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160728/9m3w47t7r.jpg-w300",
+				"cover_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160728/t6hdzkl9e.jpg-w720",
+				"created_at": 1469675711,
+				"id": 114,
+				"posts_count": 9,
+				"status": 1,
+				"subtitle": "\u504f\u504f\u8fd8\u8981\u9760\u7f8e\u5473\u6253\u52a8\u4f60",
+				"title": "\u660e\u660e\u53ef\u4ee5\u9760\u989c\u503c",
+				"updated_at": 1469675711
+			},
+			"target_id": 114,
+			"target_url": "",
+			"type": "collection"
+		}]
+	},
+	"message": "OK"
+}

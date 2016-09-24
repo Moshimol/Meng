@@ -1,0 +1,20 @@
+{
+	"code": 200,
+	"data": {
+		"favorite_lists": [{
+			"cover_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160811/ato131r6l.jpg-w720",
+			"created_at": 1471493231,
+			"description": null,
+			"id": 181754,
+			"items_count": 2,
+			"name": "\u770b\u89c1\u4e86",
+			"updated_at": 1471493231,
+			"url": "http://www.maimenghuo.com/favorite_lists/181754",
+			"user_id": 137896
+		}],
+		"paging": {
+			"next_url": "http://api.maimenghuo.com/v2/users/me/favorite_lists?limit=20&offset=20"
+		}
+	},
+	"message": "OK"
+}

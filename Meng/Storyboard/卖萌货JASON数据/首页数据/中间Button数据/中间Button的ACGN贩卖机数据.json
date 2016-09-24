@@ -1,0 +1,20 @@
+{
+	"code": 200,
+	"data": {
+		"banner_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160530/7m55akvjp.jpg-w300",
+		"cover_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160530/h5uqn6nh2.jpg-w720",
+		"created_at": 1464355687,
+		"id": 93,
+		"paging": {
+			"next_url": null
+		},
+		"posts": [],
+		"posts_count": 24,
+		"status": 1,
+		"subtitle": "None",
+		"title": "ACGN\u8d29\u5356\u673a",
+		"updated_at": 1464355687,
+		"url": "http://www.maimenghuo.com/collections/93"
+	},
+	"message": "OK"
+}

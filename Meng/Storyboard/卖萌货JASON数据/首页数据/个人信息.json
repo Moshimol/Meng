@@ -1,0 +1,25 @@
+{
+	"code": 200,
+	"data": {
+		"allow_resign_in": false,
+		"credit": 15,
+		"id": 63694,
+		"rank": 0.0,
+		"sign_notify": false,
+		"signed_days": 0,
+		"signed_history": "160801,160808,160816,160822",
+		"signed_in_today": false,
+		"signin_count_today": 861,
+		"user": {
+			"avatar_url": "http://7xkwn3.com1.z0.glb.clouddn.com/avatar20160801u8owhc3jxa_i.png-w180",
+			"can_mobile_login": false,
+			"guest_uuid": null,
+			"id": 137896,
+			"mobile": null,
+			"nickname": "\u8881",
+			"role": 0
+		},
+		"user_id": 137896
+	},
+	"message": "OK"
+}
