@@ -46,6 +46,10 @@
 >9.使用第三方框架AFNetworking进行网络请求，以及SDWebImage进行加载图片
 
 ---
+##项目更改BUG细节
+---
+>1.下个版本增加不同网络状态下的判断，来记性加载，使得在没有网出现没有数据的问题得到解决
+
 
 ###作者的联系方式
 <h4>[卢仕彤微博](http://weibo.com/1865131860/profile?rightmod=1&wvr=6&mod=personinfo)  <br>[袁王东  微博](http://weibo.com/u/3816905770?refer_flag=1005050005_)
