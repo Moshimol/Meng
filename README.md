@@ -39,7 +39,7 @@
 >2.首页顶部的图片轮播，自定义cell利用TableView完成界面的基本布局;<br>
 >3.自定义TextView实现加入Placeholder;<br>
 >4.商品详情界面Label的复杂布局;<br>
->5.清除缓存使用(SDImageCache 类的方法),alertView 的使用
+>5.清除缓存使用(SDImageCache 类的方法),alertView 的使用<br>
 >6.利用CollectionView，TableView实现个人中心界面布局;<br>
 >7.改变头像和昵称并保存到本地，头像可以通过相册或者相机获取图片;<br>
 >8.使用第三方SDK，实现分享的功能，使卖萌货能在微信，微博上进行分享;<br>
