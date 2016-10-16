@@ -56,4 +56,4 @@
 [下载地址](https://yunpan.cn/ckWD2QNcHytSP) 密码是：dd2b
 
 ###作者的联系方式
-<h4>[卢仕彤微博](http://weibo.com/1865131860/profile?rightmod=1&wvr=6&mod=personinfo)  <br>[袁王东  微博](http://weibo.com/u/3816905770?refer_flag=1005050005_)
+<h4>[卢仕彤微博](http://weibo.com/1865131860/profile?rightmod=1&wvr=6&mod=personinfo)
