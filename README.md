@@ -58,4 +58,6 @@
 
 ### 作者的联系方式
 
-<h4>[卢仕彤微博](http://weibo.com/1865131860/profile?rightmod=1&wvr=6&mod=personinfo)
+<h4>
+
+[卢仕彤微博](http://weibo.com/1865131860/profile?rightmod=1&wvr=6&mod=personinfo)
