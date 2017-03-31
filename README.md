@@ -3,8 +3,9 @@
 <h4>由于现在对萌物的追捧，我们打算收集所有好看的萌货，以及列出相关的淘宝购买地址</h4>
 ---
 
-##软件的亮点PNG图片
---- 
+## 软件的亮点PNG图片
+---
+
 ![Home ViewController](https://github.com/Moshimol/Meng/blob/master/Effect/Home.png)
 ![More ViewController](https://github.com/Moshimol/Meng/blob/master/Effect/More.png)<br><br>
 ![Profile ViewController](https://github.com/Moshimol/Meng/blob/master/Effect/Profile.png)
@@ -18,7 +19,7 @@
 ---
 
 
-##项目进度
+## 项目进度
 ---
 <h4>项目进度的详情</h4>
 >1. 8.20 实现页面的布局,使用Chrales抓取API接口<br>
@@ -50,10 +51,11 @@
 ---
 >1.下个版本增加不同网络状态下的判断，来记性加载，使得在没有网出现没有数据的问题得到解决
 
-###由于本人的原因 现提供360云盘下载
+### 由于本人的原因 现提供360云盘下载
 ---
 
 [下载地址](https://yunpan.cn/ckWD2QNcHytSP)   网盘出现问题，过段时间上传百度云
 
-###作者的联系方式
+### 作者的联系方式
+
 <h4>[卢仕彤微博](http://weibo.com/1865131860/profile?rightmod=1&wvr=6&mod=personinfo)
